@@ -1,5 +1,5 @@
 ## About
-I am a Java Developer with 4 years of experience in Java, Spring, and PostgreSQL, and an ACM ICPC awardee.
+I am a Java Developer with 4 years of experience in Java, Spring, PostgreSQL, and an ACM ICPC awardee.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
