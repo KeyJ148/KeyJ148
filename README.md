@@ -15,4 +15,4 @@ I am a Java Developer with 4 years of experience in Java, Spring, PostgreSQL, an
 ---
 
 [![](https://nirzak-streak-stats.vercel.app/?user=KeyJ148&card_width=720&mode=weekly&hide_border=true)]()
-<img src="https://github-readme-stats.vercel.app/api?username=KeyJ148&include_all_commits=true&hide_border=true&show_icons=true&hide=prs,contribs&hide_rank=true&hide_title=false&card_width=360" align="top"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyJ148&include_all_commits=true&layout=compact&hide_border=true&card_width=360&hide=php0&hide_title=false" align="top"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=KeyJ148&include_all_commits=true&hide_border=true&show_icons=true&hide=prs,contribs&hide_rank=true&hide_title=false&card_width=360&title_color=000000" align="top"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyJ148&include_all_commits=true&layout=compact&hide_border=true&card_width=360&hide=php0&hide_title=false&title_color=000000" align="top"/> 
